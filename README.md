@@ -6,4 +6,4 @@ Pizza Sales Data Analysis Using Power BI &amp; SQL
 
 <img width="1362" height="792" alt="image" src="https://github.com/user-attachments/assets/4602a981-3ebe-4444-a78d-69f1d7b7c0f0" />
 
-<img width="1361" height="802" alt="image" src="https://github.com/user-attachments/assets/b8134b59-c460-4ff7-9786-aa4a1d3a980a" />
+<img width="1410" height="802" alt="image" src="https://github.com/user-attachments/assets/a0202d5f-cc3f-4233-b4ba-2355effc6d39" />
